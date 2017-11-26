@@ -1,10 +1,10 @@
 
 # Para poder ver la app funcionando en AWS
 
-
+Demo funcionando
 http://54.173.205.90/
 
-
+gi
 
 Mi CV en html sin ningún framework. Creado para la práctica inicial HTMl, Css, Js
 
