@@ -1,13 +1,14 @@
 
 # Para poder ver la app funcionando en AWS
 
-##Ejercicio 1
+## Ejercicio 1
 http://ec2-34-207-95-183.compute-1.amazonaws.com/
 Nodepop
 
-##Ejercicio 2
+## Ejercicio 2
 
 Mi CV en html sin ningún framework. Creado para la práctica inicial HTMl, Css, Js
+Por ahora está una página de bienvenida
 http://34.207.95.183/ 
 
 
