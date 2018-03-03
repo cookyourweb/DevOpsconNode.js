@@ -3,14 +3,16 @@
 
 ## Ejercicio 1
 http://ec2-34-207-95-183.compute-1.amazonaws.com/
-Nodepop
+
+Nodepop (falta insertar anuncios desde Postman)
 
 ## Ejercicio 2
 
 Mi CV en html sin ningún framework. Creado para la práctica inicial HTMl, Css, Js
-Por ahora está una página de bienvenida
-http://34.207.95.183/ 
 
+Falta subir el Cv, por ahora hay una página de bienvenida.
+
+http://34.207.95.183/
 
 
 # NodePop
