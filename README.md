@@ -2,13 +2,13 @@
 # Para poder ver la app funcionando en AWS
 
 ##Ejercicio 1
-http://ec2-54-173-205-90.compute-1.amazonaws.com:3000/
+http://ec2-34-207-95-183.compute-1.amazonaws.com/
+Nodepop
 
 ##Ejercicio 2
 
 Mi CV en html sin ningún framework. Creado para la práctica inicial HTMl, Css, Js
-
-http://54.173.205.90/
+http://34.207.95.183/ 
 
 
 
